@@ -96,12 +96,12 @@ body {
     font-size: 14px;
 }
 
-.footer {
+.wrapper {
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #FDA50F;
-    color: #0E1419;
+    background-color: #0e1419;
+    color: #fff;
     text-align: center;
 }
