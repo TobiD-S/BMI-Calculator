@@ -1,2 +1,2 @@
 # BMI-Calculator
-A web based BMI Calculator App, using HTML, CSS and vanilla JavaScript.
+A web based BMI Calculator App. Made using HTML, CSS and vanilla JavaScript.
